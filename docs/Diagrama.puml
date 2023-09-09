@@ -3,8 +3,6 @@ class Mascota
     +Establecer_Nombre()
 }
 class Entrenador
-    {
-
-        +AsignarNombre()
-
-    }
+{
+      +AsignarNombre()
+}
